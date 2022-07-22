@@ -1,0 +1,7 @@
+ "args": [
+        "--model=LightCNN-29",
+        "--img_test=/home/liz/Documents/Thesis/Evaluation/test/images-test.txt",
+        "--img_list=/home/liz/Documents/Thesis/Evaluation/test/images-identity.txt",
+        "--num_classes=79077",
+        "--save_path="
+      ]
